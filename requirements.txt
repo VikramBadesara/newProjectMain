@@ -1,0 +1,21 @@
+Here we will write all the requirements.
+
+
+Based on the project description you provided, here are some suggestions for files and folders to create:
+
+README.md: This file should provide an overview of your project, including its purpose, features, and any instructions necessary for users to get started.
+
+LICENSE: If you have chosen a specific open-source license for your project, include a file containing the license text and any applicable notices or disclaimers.
+
+requirements.txt: This file should list any external dependencies your project requires in order to run. You can create this file manually or generate it automatically using a tool like pipreqs.
+
+src/: This directory should contain the source code for your project. You can organize this directory however you like, but it's a good idea to separate different components of your project into subdirectories. For example, you might create subdirectories for data processing scripts, web application code, and so on.
+
+data/: This directory should contain any data files that your project uses or generates. Again, you can organize this directory however you like, but you might consider creating subdirectories for raw data, processed data, and intermediate files.
+
+docs/: This directory should contain any documentation for your project, such as user manuals, API documentation, or technical specifications. You might choose to organize this directory by document type or by project component.
+
+tests/: This directory should contain any automated tests for your project, such as unit tests or integration tests. You can organize this directory by test type or by project component.
+
+
+This is just a starting point, and you may need to create additional files and folders depending on the specific needs of your project.
